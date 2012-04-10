@@ -2,6 +2,6 @@
 
 int main()
 {
-   printf("Bala is a brave soul\n");
+   printf("Bala is brave\n");
    return 10000;
 }

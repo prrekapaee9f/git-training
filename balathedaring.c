@@ -2,6 +2,6 @@
 
 int main()
 {
-   printf("Bala is a dare devil\n");
-   return 10000;
+   printf("Bala is daring\n");
+   return 1;
 }
