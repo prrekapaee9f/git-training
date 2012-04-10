@@ -2,6 +2,6 @@
 
 int main()
 {
-   printf("Bala is abcdefghijklmnopqrstuvwxyz\n");
+   printf("Bala is awesome, bcdefghijklmnopqrstuvwxyz\n");
    return 1;
 }
