@@ -2,6 +2,6 @@
 
 int main()
 {
-   printf("Bala is awesome, brave, cool, daring, exceptional, fearless, generous, humble, incredible\n");
+   printf("Bala is awesome, brave, cool, daring, exceptional, fearless, generous, humble, incredible, knowledgeable\n");
    return 1;
 }
